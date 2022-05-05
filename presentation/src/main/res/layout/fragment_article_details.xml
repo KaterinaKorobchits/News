@@ -9,7 +9,7 @@
         android:orientation="vertical"
         android:padding="8dp">
 
-        <TextView
+        <com.google.android.material.textview.MaterialTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@{form.article.title}"
@@ -17,7 +17,7 @@
             android:textStyle="bold"
             tools:text="Ary News" />
 
-        <TextView
+        <com.google.android.material.textview.MaterialTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@{form.article.publishedAt}"

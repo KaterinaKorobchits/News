@@ -1,4 +1,3 @@
-# lexicon-en
 Implementation of [Gurtam Android developer challenge]
 
 ## Technologies
